@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
+    "preinstall": "npm install --platform=linux --arch=x64 --target=20x sharp@0.32.6",
     "start": "next start",
     "lint": "next lint"
   },
