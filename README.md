@@ -2,6 +2,12 @@
 
 > All things Amena
 
+
+# Features
+
+- Poem
+- Ayman bad sayings
+
 ## Getting Started
 
 ### Installation
